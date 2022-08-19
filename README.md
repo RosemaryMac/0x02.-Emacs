@@ -1,5 +1,5 @@
 # 0x02. Emacs
-##Congrats!:Party Popper:
+##Congrats!:tada:
 Now you know how to navigate into a Unix system!
 
 It’s time to test and decide what will be your favorite text editor on your sandbox:**Emacs** or **Vi**.
@@ -23,18 +23,18 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 - How to cancel half-entered commands
 - How to quit Emacs
 
-## Copyright - Plagiarism
+## Copyright - Plagiarism:stop_sign:
 - You are tasked to come up with solutions for the tasks below yourself to meet with the above learning objectives.
 - You will not be able to meet the objectives of this or any following project by copying and pasting someone else’s work.
 - You are not allowed to publish any content of this project.
 - Any form of plagiarism is strictly forbidden and will result in removal from the program.
 
-## Requirements
+## Requirements:bookmark:
 - All tasks **must be** done inside the sandbox `Ubuntu 20.04`
 - Your sandbox **must be available at the end of this project** - the Checker will access to it at midnight for running the correction!
 - The answer of a task must be in a specific file
 - Each answer file must contain only the command to execute in Emacs for solving the task. Example: “What is the command to write buffer to a specified file?” -> the file should contain only `C-x C-w`
-# Tasks
+# Tasks:scroll:
 ## 0. Create your answer directory
 Navigate to `/root` and create a directory named `0x02_emacs`
 ## 1.Opening
@@ -54,3 +54,24 @@ root@hex:~#
 What is the command to save a file?
 
 Write the answer into the file `/root/0x02_emacs/saving`.
+## 3.Cutting
+What is the command to cut an entire line?
+
+Write the answer into the file `/root/0x02_emacs/cutting`.
+## 4.Pasting
+What is the command to paste?
+
+Write the answer into the file `/root/0x02_emacs/pasting`.
+## 5.Searching
+What is the command to search forward?
+
+Write the answer into the file `/root/0x02_emacs/searching`.
+## 6.Undoing
+What is the command to undo?
+
+Write the answer into the file `/root/0x02_emacs/undoing`.
+## 7.Quitting
+What is the command to quit Emacs?
+
+Write the answer into the file `/root/0x02_emacs/quitting`.
+
