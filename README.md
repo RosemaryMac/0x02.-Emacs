@@ -1,8 +1,8 @@
 # 0x02. Emacs
-##Congrats!:tada:
-Now you know how to navigate into a Unix system!
+**Congrats!**:tada:
+- Now you know how to navigate into a Unix system!
 
-It’s time to test and decide what will be your favorite text editor on your sandbox:**Emacs** or **Vi**.
+- It’s time to test and decide what will be your favorite text editor on your sandbox:**Emacs** or **Vi**.
 
 During this project you will play with **Emacs**.
 ## Resources :open_book:
