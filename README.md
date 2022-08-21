@@ -1,4 +1,4 @@
-# 0x02. Emacs :file_folder:
+# 0x01 / 0x02.Emacs :file_folder:
 **Congrats!**:tada:
 - Now you know how to navigate into a Unix system!
 
